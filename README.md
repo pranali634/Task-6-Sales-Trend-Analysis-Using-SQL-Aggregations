@@ -159,5 +159,6 @@ Retrieves the **first 10 transactions** by date — useful for early-period anal
 
 ## Author
 **Pranali Ranjane**
-**Internship:** Elevate Labs – Data Analyst Internship  
+
+Elevate Labs – Data Analyst Internship  
 **Task:** Task 6 – Sales Trend Analysis Using Aggregations
